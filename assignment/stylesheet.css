@@ -1,0 +1,28 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+
+main {
+    background-color: lightgray;
+    padding: 1em;
+    text-align: center;
+    margin: 0;
+    border-top: 6px solid orange;
+}
+
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    border: 6px solid orange;
+    border-radius: 1rem;
+}
+
